@@ -156,6 +156,17 @@ ul li:hover:nth-child(7) a::before {
 ul li:hover:nth-child(7) a::after {
   background-color:  #FBBC04;
 }
+ul li:hover:nth-child(8) a {
+  background-color:  #1DA1F2;
+}
+
+ul li:hover:nth-child(8) a::before {
+  background-color:  #1DA1F2;
+}
+
+ul li:hover:nth-child(8) a::after {
+  background-color:  #1DA1F2;
+}
 /* Responsive */
 @media (max-width: 480px) {
   ul {
